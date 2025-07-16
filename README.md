@@ -1,4 +1,3 @@
-```markdown
 🏘️ Real Estate Sales Dashboard – Power BI Project
 
 📌 Project Overview
